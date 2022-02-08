@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/console-programlama
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/console-programlama.deps.json
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/console-programlama.dll
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/ref/console-programlama.dll
+/media/gazi/HDD/Patika-CSharp/console-programlama/bin/Debug/net5.0/console-programlama.pdb
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.dll
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/ref/console-programlama.dll
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.pdb
+/media/gazi/HDD/Patika-CSharp/console-programlama/obj/Debug/net5.0/console-programlama.genruntimeconfig.cache
