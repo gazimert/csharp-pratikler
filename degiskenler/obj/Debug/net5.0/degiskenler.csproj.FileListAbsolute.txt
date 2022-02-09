@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/degiskenler
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/degiskenler.deps.json
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/degiskenler.dll
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/ref/degiskenler.dll
+/media/gazi/HDD/Patika-CSharp/degiskenler/bin/Debug/net5.0/degiskenler.pdb
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.dll
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/ref/degiskenler.dll
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.pdb
+/media/gazi/HDD/Patika-CSharp/degiskenler/obj/Debug/net5.0/degiskenler.genruntimeconfig.cache
