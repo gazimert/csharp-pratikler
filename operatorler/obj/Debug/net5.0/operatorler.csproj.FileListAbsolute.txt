@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/operatorler
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/operatorler.dll
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/media/gazi/HDD/Patika-CSharp/operatorler/bin/Debug/net5.0/operatorler.pdb
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.dll
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.pdb
+/media/gazi/HDD/Patika-CSharp/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
