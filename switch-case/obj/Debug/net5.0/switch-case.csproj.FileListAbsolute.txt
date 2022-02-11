@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/switch-case
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/switch-case.deps.json
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/switch-case.dll
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/ref/switch-case.dll
+/media/gazi/HDD/Patika-CSharp/switch-case/bin/Debug/net5.0/switch-case.pdb
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.dll
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/ref/switch-case.dll
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.pdb
+/media/gazi/HDD/Patika-CSharp/switch-case/obj/Debug/net5.0/switch-case.genruntimeconfig.cache
