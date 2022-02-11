@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/media/gazi/HDD/Patika-CSharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
