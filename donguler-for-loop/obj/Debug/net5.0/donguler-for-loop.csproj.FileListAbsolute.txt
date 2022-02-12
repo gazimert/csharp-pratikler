@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.deps.json
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.dll
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/ref/donguler-for-loop.dll
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.pdb
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.dll
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/ref/donguler-for-loop.dll
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.pdb
+/media/gazi/HDD/Patika-CSharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.genruntimeconfig.cache
