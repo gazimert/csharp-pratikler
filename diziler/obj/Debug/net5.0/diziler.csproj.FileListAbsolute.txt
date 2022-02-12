@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/diziler
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/diziler.deps.json
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/diziler.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/diziler.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/diziler.dll
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/ref/diziler.dll
+/media/gazi/HDD/Patika-CSharp/diziler/bin/Debug/net5.0/diziler.pdb
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.dll
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/ref/diziler.dll
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.pdb
+/media/gazi/HDD/Patika-CSharp/diziler/obj/Debug/net5.0/diziler.genruntimeconfig.cache
