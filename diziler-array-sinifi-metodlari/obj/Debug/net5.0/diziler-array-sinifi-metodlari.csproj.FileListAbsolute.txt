@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.deps.json
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/media/gazi/HDD/Patika-CSharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.genruntimeconfig.cache
