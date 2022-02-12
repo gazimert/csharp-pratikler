@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.deps.json
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.dll
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/ref/donguler-while-foreach.dll
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.pdb
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.dll
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/ref/donguler-while-foreach.dll
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.pdb
+/media/gazi/HDD/Patika-CSharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.genruntimeconfig.cache
