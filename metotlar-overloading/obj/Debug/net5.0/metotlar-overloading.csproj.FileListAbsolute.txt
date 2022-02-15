@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/metotlar-overloading
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/metotlar-overloading.deps.json
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/metotlar-overloading.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/metotlar-overloading.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/metotlar-overloading.dll
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/ref/metotlar-overloading.dll
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/bin/Debug/net5.0/metotlar-overloading.pdb
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.dll
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/ref/metotlar-overloading.dll
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.pdb
+/media/gazi/HDD/Patika-CSharp/metotlar-overloading/obj/Debug/net5.0/metotlar-overloading.genruntimeconfig.cache
