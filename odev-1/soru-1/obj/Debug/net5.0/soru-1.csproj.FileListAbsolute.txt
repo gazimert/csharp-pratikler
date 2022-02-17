@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/soru-1
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/soru-1.deps.json
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/soru-1.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/soru-1.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/soru-1.dll
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/ref/soru-1.dll
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/bin/Debug/net5.0/soru-1.pdb
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.dll
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/ref/soru-1.dll
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.pdb
+/media/gazi/HDD/Patika-CSharp/odev-1/soru-1/obj/Debug/net5.0/soru-1.genruntimeconfig.cache
