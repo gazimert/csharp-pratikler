@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.deps.json
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/ref/hazir-metotlar-string.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.pdb
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/ref/hazir-metotlar-string.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.pdb
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.genruntimeconfig.cache
