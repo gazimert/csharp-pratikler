@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/hazir-metotlar-datetime-math
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/hazir-metotlar-datetime-math.deps.json
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/hazir-metotlar-datetime-math.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/hazir-metotlar-datetime-math.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/hazir-metotlar-datetime-math.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/ref/hazir-metotlar-datetime-math.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/bin/Debug/net5.0/hazir-metotlar-datetime-math.pdb
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/ref/hazir-metotlar-datetime-math.dll
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.pdb
+/media/gazi/HDD/Patika-CSharp/hazir-metotlar-datetime-math/obj/Debug/net5.0/hazir-metotlar-datetime-math.genruntimeconfig.cache
