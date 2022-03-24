@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/arrayList
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/arrayList.deps.json
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/arrayList.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/arrayList.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/arrayList.dll
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/ref/arrayList.dll
+/media/gazi/HDD/Patika-CSharp/arrayList/bin/Debug/net5.0/arrayList.pdb
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.dll
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/ref/arrayList.dll
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.pdb
+/media/gazi/HDD/Patika-CSharp/arrayList/obj/Debug/net5.0/arrayList.genruntimeconfig.cache
