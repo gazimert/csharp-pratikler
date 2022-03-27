@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.deps.json
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/ref/sinif-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.pdb
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/ref/sinif-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.pdb
+/media/gazi/HDD/Patika-CSharp/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.genruntimeconfig.cache
