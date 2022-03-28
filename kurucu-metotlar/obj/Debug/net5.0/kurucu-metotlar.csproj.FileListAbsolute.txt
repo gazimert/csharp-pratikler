@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.deps.json
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.dll
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/ref/kurucu-metotlar.dll
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.pdb
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.dll
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/ref/kurucu-metotlar.dll
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.pdb
+/media/gazi/HDD/Patika-CSharp/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.genruntimeconfig.cache
