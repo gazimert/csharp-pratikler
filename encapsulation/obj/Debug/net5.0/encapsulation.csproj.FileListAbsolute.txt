@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/encapsulation
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/encapsulation.deps.json
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/encapsulation.dll
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/ref/encapsulation.dll
+/media/gazi/HDD/Patika-CSharp/encapsulation/bin/Debug/net5.0/encapsulation.pdb
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.dll
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/ref/encapsulation.dll
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.pdb
+/media/gazi/HDD/Patika-CSharp/encapsulation/obj/Debug/net5.0/encapsulation.genruntimeconfig.cache
