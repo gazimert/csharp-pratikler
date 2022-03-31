@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.deps.json
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.dll
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/ref/static-sinif-ve-uyeler.dll
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.pdb
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.dll
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/ref/static-sinif-ve-uyeler.dll
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.pdb
+/media/gazi/HDD/Patika-CSharp/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.genruntimeconfig.cache
