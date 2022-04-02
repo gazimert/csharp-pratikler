@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/enum_
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/enum_.deps.json
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/enum_.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/enum_.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/enum_.dll
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/ref/enum_.dll
+/media/gazi/HDD/Patika-CSharp/enum_/bin/Debug/net5.0/enum_.pdb
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.dll
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/ref/enum_.dll
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.pdb
+/media/gazi/HDD/Patika-CSharp/enum_/obj/Debug/net5.0/enum_.genruntimeconfig.cache
