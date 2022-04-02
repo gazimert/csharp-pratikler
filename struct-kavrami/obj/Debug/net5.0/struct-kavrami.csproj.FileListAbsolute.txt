@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/struct-kavrami
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/struct-kavrami.deps.json
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/struct-kavrami.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/struct-kavrami.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/struct-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/ref/struct-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/bin/Debug/net5.0/struct-kavrami.pdb
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/ref/struct-kavrami.dll
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.pdb
+/media/gazi/HDD/Patika-CSharp/struct-kavrami/obj/Debug/net5.0/struct-kavrami.genruntimeconfig.cache
