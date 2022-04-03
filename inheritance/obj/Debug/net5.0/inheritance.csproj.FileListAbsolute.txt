@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/inheritance
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/inheritance.deps.json
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/inheritance.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/inheritance.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/inheritance.dll
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/ref/inheritance.dll
+/media/gazi/HDD/Patika-CSharp/inheritance/bin/Debug/net5.0/inheritance.pdb
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.dll
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/ref/inheritance.dll
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.pdb
+/media/gazi/HDD/Patika-CSharp/inheritance/obj/Debug/net5.0/inheritance.genruntimeconfig.cache
