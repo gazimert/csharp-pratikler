@@ -1,0 +1,16 @@
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/interfaces
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/interfaces.deps.json
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/interfaces.runtimeconfig.json
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/interfaces.runtimeconfig.dev.json
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/interfaces.dll
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/ref/interfaces.dll
+/media/gazi/HDD/Patika-CSharp/interfaces/bin/Debug/net5.0/interfaces.pdb
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.csproj.AssemblyReference.cache
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.AssemblyInfoInputs.cache
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.AssemblyInfo.cs
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.csproj.CoreCompileInputs.cache
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.dll
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/ref/interfaces.dll
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.pdb
+/media/gazi/HDD/Patika-CSharp/interfaces/obj/Debug/net5.0/interfaces.genruntimeconfig.cache
